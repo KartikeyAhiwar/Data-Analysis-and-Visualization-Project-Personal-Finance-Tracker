@@ -1,0 +1,22 @@
+<h2>Run the tracker:<h2/>
+  python main.py
+<h2>Main Options:<h2/>
+
+    1. Add a new transaction: Input details like date, amount, category (Income/Expense), and an optional description.
+    2. View transactions and summary: Enter a start and end date to filter transactions within a period and generate a summary.
+    3. Plot transactions: Option to generate a plot of your income and expense data over the selected period.
+    4. Exit: Exit the program.
+
+<h2>Example:<h2/>
+
+    Enter the date of the transaction (dd-mm-yyyy) or enter for today's date: 01-10-2024
+    Enter the amount: 500
+    Enter the category ('I' for Income or 'E' for Expense): I
+    Enter a description (optional): Salary for October
+
+<h2>View transactions (choose option 2):<h2/>
+   Enter the start date (dd-mm-yyyy): 01-10-2024
+   Enter the end date (dd-mm-yyyy): 07-10-2024
+
+<h2>Plot data (after viewing transactions):<h2/>
+   Do you want to see a plot? (y/n): y
