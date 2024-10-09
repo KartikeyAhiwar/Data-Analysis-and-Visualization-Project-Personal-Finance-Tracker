@@ -1,0 +1,1 @@
+The **Personal Finance Tracker** is a Python-based command-line tool designed to help users track their personal income and expenses. It stores data in a CSV file and provides functionalities to add transactions, view summaries within a specific date range, and visualize income and expense trends over time.
